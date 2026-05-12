@@ -1,0 +1,20 @@
+# Ignore everything by default
+*
+
+# Allow docs and schema directories
+!/docs/
+!/docs/**
+!/schema/
+!/schema/**
+
+# Allow essential project files
+!/README.md
+!/LICENSE
+!/.gitignore
+
+# Ignore OS files within allowed directories
+.DS_Store
+
+# Ignore Python cache within allowed directories
+__pycache__/
+*.pyc
