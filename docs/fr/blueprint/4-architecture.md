@@ -27,7 +27,7 @@
 
 ### 1. Data Collector
 
-Lit les données de l'hôte depuis les sources de données configurées.
+Lit les données du Human Prime depuis les sources de données configurées.
 
 **Types de sources de données pris en charge :**
 - Répertoires locaux (chemins du système de fichiers)

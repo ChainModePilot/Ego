@@ -27,7 +27,7 @@
 
 ### 1. Data Collector
 
-Reads host data from configured data sources.
+Reads Human Prime data from configured data sources.
 
 **Supported Data Source Types:**
 - Local directories (filesystem paths)

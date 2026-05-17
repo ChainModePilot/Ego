@@ -1,6 +1,6 @@
 # Projektübersicht
 
-Ego ist das „Gehirn" von iFay — ein personalisiertes Kleinmodell, das stark auf seinen Host abgestimmt ist.
+Ego ist das „Gehirn" von iFay — ein personalisiertes Kleinmodell, das stark auf seinen Human Prime abgestimmt ist.
 
 Gleichzeitig ist Ego auch ein eigenständiges Open-Source-Werkzeug: **ein sofort einsatzbereites, personalisiertes Modelltraining-Tool für jedermann**. Jeder kann damit seine eigenen Daten zu einem KI-Modell „schmieden", das ihn versteht.
 

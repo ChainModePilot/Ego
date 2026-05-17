@@ -27,7 +27,7 @@
 
 ### 1. Datensammler (Data Collector)
 
-Liest Host-Daten aus konfigurierten Datenquellen.
+Liest Human-Prime-Daten aus konfigurierten Datenquellen.
 
 **Unterstützte Datenquellentypen:**
 - Lokale Verzeichnisse (Dateisystempfade)

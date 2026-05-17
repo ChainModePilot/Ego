@@ -1,6 +1,6 @@
 # Descripción del Proyecto
 
-Ego es el "cerebro" de iFay — un modelo pequeño personalizado altamente alineado con su anfitrión.
+Ego es el "cerebro" de iFay — un modelo pequeño personalizado altamente alineado con su Human Prime.
 
 Al mismo tiempo, Ego es también una herramienta de código abierto independiente: **una herramienta de entrenamiento de modelos personalizados lista para usar, pensada para personas comunes**. Cualquiera puede usarla para "forjar" sus propios datos en un modelo de IA que los comprenda.
 
@@ -10,5 +10,5 @@ Al mismo tiempo, Ego es también una herramienta de código abierto independient
 
 | Identidad | Descripción | Ejemplo |
 |-----------|-------------|---------|
-| Cerebro de iFay | Recibe las direcciones de fuentes de datos proporcionadas por el cuerpo de iFay, aprende datos de Sense/Action/Thought/Skill/Credentials e internaliza los patrones de pensamiento y hábitos de comportamiento del anfitrión | Tu iFay se ejecuta en tu teléfono. Después de que Ego aprende tus hábitos de planificación, automáticamente organiza tu día cada mañana exactamente en el mismo estilo que tú lo harías |
+| Cerebro de iFay | Recibe las direcciones de fuentes de datos proporcionadas por el cuerpo de iFay, aprende datos de Sense/Action/Thought/Skill/Credentials e internaliza los patrones de pensamiento y hábitos de comportamiento del Human Prime | Tu iFay se ejecuta en tu teléfono. Después de que Ego aprende tus hábitos de planificación, automáticamente organiza tu día cada mañana exactamente en el mismo estilo que tú lo harías |
 | Herramienta Independiente | Puede ejecutarse independientemente de iFay, sirviendo como una herramienta de propósito general para entrenar rápidamente modelos de Agentes personales | Un equipo de atención al cliente usa Ego Pod para forjar los registros de conversación de agentes experimentados en un modelo, permitiendo a los nuevos aprender el estilo de comunicación y los enfoques de resolución de problemas de los veteranos |

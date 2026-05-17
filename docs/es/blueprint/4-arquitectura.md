@@ -27,7 +27,7 @@
 
 ### 1. Data Collector
 
-Lee datos del anfitrión desde las fuentes de datos configuradas.
+Lee datos del Human Prime desde las fuentes de datos configuradas.
 
 **Tipos de Fuentes de Datos Soportados:**
 - Directorios locales (rutas del sistema de archivos)

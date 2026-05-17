@@ -5,7 +5,7 @@
 Ego Pod est le moteur central d'Ego — un pipeline d'entraînement entièrement automatisé. Comme une « chambre de culture », vous y mettez des données brutes, et il forge automatiquement un modèle d'IA qui vous comprend.
 
 Il fait trois choses :
-1. **Collecter** — Lire les données de l'hôte depuis les sources spécifiées (répertoires locaux/URLs/stockage cloud/...)
+1. **Collecter** — Lire les données du Human Prime depuis les sources spécifiées (répertoires locaux/URLs/stockage cloud/...)
 2. **Forger** — Transformer les données brutes en corpus d'entraînement, entraîner des adaptateurs LoRA sur un modèle de base sélectionné
 3. **Produire** — Générer plusieurs versions (éditions) du modèle Ego, en écrasant les anciennes versions
 
@@ -28,7 +28,7 @@ Sources de données         Ego Pod                        Sortie
 Chaque Ego = Modèle de base + Adaptateur LoRA
 
 - **Modèle de base** : Modèles open source à petit nombre de paramètres (ex. Qwen 3.5, Gemma 4), fournissant des capacités générales de langage et de raisonnement. Analogie : Le modèle de base est comme un « appartement brut » — il a la structure de base et les installations, mais aucun style personnel.
-- **Adaptateur LoRA** : Entraîné à partir des données de l'hôte, portant la personnalité, les préférences, les souvenirs, les connaissances et les compétences de l'hôte. Analogie : LoRA est comme votre « plan de décoration intérieure » — vos meubles préférés, les couleurs des murs et l'agencement de l'éclairage sont ce qui fait de la maison « votre chez-vous ».
+- **Adaptateur LoRA** : Entraîné à partir des données du Human Prime, portant la personnalité, les préférences, les souvenirs, les connaissances et les compétences du Human Prime. Analogie : LoRA est comme votre « plan de décoration intérieure » — vos meubles préférés, les couleurs des murs et l'agencement de l'éclairage sont ce qui fait de la maison « votre chez-vous ».
 
 Le modèle de base ne contient aucune information personnalisée ; LoRA est l'« âme ».
 
